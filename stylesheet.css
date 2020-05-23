@@ -4,6 +4,7 @@ body {
 
 li {
   list-style: none;
+  /* float: right; */
 }
 
 .header {
@@ -19,7 +20,7 @@ li {
 }
 
 .header-list li {
-  float: left;
+  float: right;
   padding: 33px 20px;
 }
 
